@@ -1,7 +1,8 @@
-
-
 //Components
-import Contact from './Components/Contact/Contact.js'
+import Contact from './Components/Contact/Contact.js';
+
+//Stylesheet
+import './App.css';
 
 function App() {
   return (
